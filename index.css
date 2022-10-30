@@ -1,3 +1,14 @@
->body {
+>body{...
+
 }
+.h1{
+    text-align: :left;
+}
+. h2{
+    display: inline-flex;
+    list-style: none;
+}
+.h3{
+    margin: 25px;
+    position: relative;
 }
